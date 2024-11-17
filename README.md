@@ -10,9 +10,9 @@ v3.x is to call MeterSphere 3.x to trigger Test Plans or Test Plan Groups.
 - Usage of runMSv3TestPlan.sh
   This is the script to trigger MS TestPlan.
   - Usage:
-    -   $ bash runMSv3TestPlan.sh <MS-Server-URL> accessKey secretKey "Project Name" "Test Plan Name"
+    -   $ bash runMSv3TestPlan.sh MS-Server-URL accessKey secretKey "Project Name" "Test Plan Name"
      -  e.g.
-        $ bash runMSv3TestPlan.sh http://<MS-Server-IP-Address>:8081  accessKey secretKey "My Test Project" "My Test Plan"
+        $ bash runMSv3TestPlan.sh http://MS-Server-IP-Address:8081  accessKey secretKey "My Test Project" "My Test Plan"
   
 - Usage of runMSv3PlanGroup.sh:  
   This is the script to trigger MS TestPlanGroup.
