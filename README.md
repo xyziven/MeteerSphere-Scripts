@@ -2,9 +2,9 @@
 Shell Scripts for MeterSphere Integrations. 
 
 Prerequisites:
- - Linux only. Tested on CentOS. Ubuntu/RHEL is supposed to be supported as well. 
- - jq is instlalled
- - there's blank in the project name or test plan name, please use double quota ""
+ - Linux only. Tested on CentOS. Ubuntu/RHEL are supposed to be supported as well. 
+ - jq is instlalled on the system or the enviroment where the script to run. 
+ - If there's blank in the project name or test plan name, please use double quota ""
 
 v3.x is to call MeterSphere 3.x to trigger Test Plans or Test Plan Groups. 
 - Usage of runMSv3TestPlan.sh
