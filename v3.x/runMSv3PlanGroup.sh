@@ -1,7 +1,7 @@
 #!/bin/bash
 ######################################################
 #### This script is to trigger MeterSphere PlanGroup #
-#### Compatable with MS V3.x                         #
+#### Compatible with MS V3.x                         #
 #### Author xyziven                                  #
 #### 2024.11.17  Initial version                     #
 ####                                                 #
