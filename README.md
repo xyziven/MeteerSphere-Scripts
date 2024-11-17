@@ -1,4 +1,4 @@
-# MeteerSphere-Scripts
+# MeterSphere-Scripts
 Shell Scripts for MeterSphere Integrations. 
 
 Prerequisites:
