@@ -52,7 +52,7 @@ v2.x is to call MeterSphere 2.x to trigger Test Plans.
         $ bash runMSv3TestPlan.sh http://MS-Server-IP-Address:8081  accessKey secretKey "My Test Project" "My Test Plan"
   
 - runMSv3PlanGroup.sh 用于触发 3.x的计划组
- -  用户:
+ -  用法:
     -  $ bash runMSv3PlanGroup.sh  MS-Server-URL accessKey secretKey "Project Name" "Test Plan Name" PARALLEL
     -  如：
      - $ bash runMSv3PlanGroup.sh   http://MS-Server-IP-Address:8081 accessKey secretKey "Project Name" "Test Plan Name" PARALLEL  （并行执行）
